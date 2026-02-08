@@ -12,8 +12,6 @@
 #         ├─ cluster_2_genes.csv
 #         └─ de_genelist_smoking_NORM_annotated.csv
 #
-# How to run (from repo root):
-#   source("scripts/hlca_module_scores.R")
 
 suppressPackageStartupMessages({
   library(Seurat)
