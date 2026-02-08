@@ -12,8 +12,6 @@
 #   - data/NORM_GEO/cpm_normalised.txt               (you can rename paths below if needed)
 #   - metadata/NORM_sample_conditions.csv            (optional; see sample_conditions section)
 #
-# How to run (from repo root):
-#   source("scripts/gsva_primate_cluster2_geo_norm.R")
 
 suppressPackageStartupMessages({
   library(GSVA)
