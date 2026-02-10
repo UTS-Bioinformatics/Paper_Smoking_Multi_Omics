@@ -181,3 +181,16 @@ for (i in seq_along(chipseq_genes)) {
   
   message("Processed gene: ", genename, " (", i, "/", length(chipseq_genes), ")")
 }
+
+# This script / directory contains a vendored copy of the R package **GenomeGraphs**,
+# which was originally distributed via Bioconductor.
+
+# GenomeGraphs is no longer available through standard Bioconductor repositories.
+# It is included here solely to ensure reproducibility of analyses in the
+# associated manuscript.
+
+#   - Original authorship and license are preserved
+#   - No claim of authorship or ownership is made
+#   - The package is used without modification
+
+# If possible, users should prefer an official Bioconductor source.
