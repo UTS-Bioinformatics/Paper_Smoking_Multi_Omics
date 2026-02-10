@@ -43,9 +43,6 @@ workflow structure.
 All code required to reproduce the analyses reported in the manuscript is provided in
 this repository.
 
-A stable version corresponding to the submitted manuscript is archived as a GitHub
-**release** (see Releases tab).
-
 ---
 
 ## Software requirements
@@ -60,8 +57,6 @@ package dependencies and version notes.
 ---
 
 ## Citation
-
-If you use this code, please cite the associated manuscript:
 
 > *A Comprehensive Multi-omics and Functional Study of Evolutionary Adaptive Responses to Smoke*
 
