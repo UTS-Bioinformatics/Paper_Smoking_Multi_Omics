@@ -59,6 +59,7 @@ package dependencies and version notes.
 ## Citation
 
 > *A Comprehensive Multi-omics and Functional Study of Evolutionary Adaptive Responses to Smoke*
+> *iScience. 2026 Apr 1;29(5):115547. doi: 10.1016/j.isci.2026.115547. eCollection 2026 May 15*
 
 ---
 
